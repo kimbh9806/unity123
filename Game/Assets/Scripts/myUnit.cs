@@ -5,7 +5,7 @@ using UnityEngine;
 public class myUnit : MonoBehaviour
 {
     public float speed;
-    public CharacterController characterController;
+    public CharacterController characterController;//p
     public Vector3 movePoint;
     public Camera mainCamera;
     public Vector3 cameraOffset;
